@@ -2,7 +2,7 @@
 The Clever Spider Man
 
 
-#### 包化分
+#### 包划分
 ```
 - spider		爬虫包用于爬网页链接url存储起来。
 
