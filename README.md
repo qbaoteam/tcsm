@@ -4,7 +4,7 @@ The Clever Spider Man
 
 ####包化分
 ```
-- spider			爬虫包用于爬网页链接url存储起来。
+- spider		爬虫包用于爬网页链接url存储起来。
 
 - url_image 		链接网页转成图片
 
